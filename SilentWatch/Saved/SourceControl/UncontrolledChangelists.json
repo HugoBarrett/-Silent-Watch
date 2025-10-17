@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Input/IMC_TopDown.uasset",
 				"C:/Users/cleas/Documents/GitHub/-Silent-Watch/SilentWatch/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/3R/FBA0Z00NHOZRLY2VS6QWS5.uasset",
 				"C:/Users/cleas/Documents/GitHub/-Silent-Watch/SilentWatch/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/P0/6BJ49D2QVGYTGKTJ12J1UB.uasset",
 				"C:/Users/cleas/Documents/GitHub/-Silent-Watch/SilentWatch/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/2Y/UVL1OZXKG9RW4CLU4D022X.uasset",
