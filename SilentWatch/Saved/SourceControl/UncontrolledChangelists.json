@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hchb0/OneDrive/Desktop/-Silent-Watch/SilentWatch/Content/FX/FX_Bullet.uasset",
+				"C:/Users/hchb0/OneDrive/Desktop/-Silent-Watch/SilentWatch/Content/TopDown/Input/Actions/IA_FireBullet.uasset",
+				"C:/Users/hchb0/OneDrive/Desktop/-Silent-Watch/SilentWatch/Content/Blueprints/Bp_Bullet.uasset",
+				"C:/Users/hchb0/OneDrive/Desktop/-Silent-Watch/SilentWatch/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/hchb0/OneDrive/Desktop/-Silent-Watch/SilentWatch/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/beesb/Game Development/Unreal/SilentWatch/-Silent-Watch/SilentWatch/Content/TopDown/Input/Actions/IA_Move.uasset",
