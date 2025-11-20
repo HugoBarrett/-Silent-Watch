@@ -3660,3 +3660,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.20-02.07.10:361][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2025.11.20-02.07.11:439][367]LogSlate: Window 'Message Log' being destroyed
 [2025.11.20-02.07.11:446][367]LogSlate: Window 'Message Log' being destroyed
+[2025.11.20-02.07.59:449][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
