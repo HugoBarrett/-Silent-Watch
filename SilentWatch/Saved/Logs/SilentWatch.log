@@ -3743,3 +3743,14 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.20-02.10.01:016][766]LogEOSSDK: Warning: LogHttp: 000002465557BA00: libcurl info message cache 6 (Closing connection)
 [2025.11.20-02.10.01:016][766]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A2027E8E4DA33801B16170B116468A1E
 [2025.11.20-02.10.01:016][766]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.11.20-02.10.16:352][811]LogEOSSDK: Warning: LogHttp: 000002465557D200: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD1C13F2E-42BF-080F-70B9-0DB5B165B575%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.11.20-02.10.16:352][811]LogEOSSDK: Warning: LogHttp: 000002465557D200: request failed, libcurl error: 0 (No error)
+[2025.11.20-02.10.16:352][811]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 0 (Found bundle for host: 0x245b8080e70 [serially])
+[2025.11.20-02.10.16:352][811]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 2 (  Trying 18.209.169.133:443...)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 3 (Connected to api.epicgames.dev (18.209.169.133) port 443)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 4 (ALPN: curl offers http/1.1)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 5 (SSL reusing session ID)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.20-02.10.16:352][812]LogEOSSDK: Warning: LogHttp: 000002465557D200: libcurl info message cache 7 (Closing connection)
+[2025.11.20-02.10.16:684][812]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD1C13F2E-42BF-080F-70B9-0DB5B165B575%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
